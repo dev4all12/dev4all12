@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev4all12
-- 👀 I’m interested in ASP.NET development with C# using bootstrap and CSS.
+- 👀 I’m interested in web development using HTML,CSS,Wordpress,PHP .   
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on in Data Science.
+- 💞️ I’m looking to collaborate on in Web Development.
 - 📫 E-mail me on dev4all12@gmail.com
 
 <!---
